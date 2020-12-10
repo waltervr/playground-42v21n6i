@@ -8,6 +8,7 @@ Create a Car class with two instance attributes:
 
 **Your output should look like this:**
 `The blue car has 20,000 miles.`
+
 `The red car has 30,000 miles.`
 
 ```python runnable
